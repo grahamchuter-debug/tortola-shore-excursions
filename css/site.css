@@ -277,7 +277,7 @@ h1, h2, h3, h4 { font-family: 'Playfair Display', Georgia, serif; }
 .hero-bg {
   background-image:
     linear-gradient(135deg, rgba(7, 89, 133, 0.72) 0%, rgba(13, 148, 136, 0.52) 60%, rgba(0, 0, 0, 0.35) 100%),
-    url('../images/hero-tortola-bvi.jpg');
+    url('../images/hero-tortola-home.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
