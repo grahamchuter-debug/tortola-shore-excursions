@@ -1,0 +1,12 @@
+{
+  "name": "tortola-shore-excursions",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "sync:schedules": "node scripts/sync-schedules.mjs",
+    "qa:schedules": "node scripts/qa-schedules.mjs",
+    "generate:schedules": "python3 scripts/generate_schedule_pages.py",
+    "qa:images": "node scripts/qa-images.mjs",
+    "qa:contamination": "node scripts/qa-contamination.mjs"
+  }
+}

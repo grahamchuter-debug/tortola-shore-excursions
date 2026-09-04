@@ -2,128 +2,290 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tortolashoreexcursions.com/</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/best-tortola-shore-excursions.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/best-tortola-shore-excursions</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-cruise-port-guide</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/one-day-in-tortola-from-cruise-ship</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-beach-excursions</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-catamaran-snorkeling-tours</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/private-tortola-tours</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/the-baths-discovery-tortola</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-cruise-port-guide.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/jost-van-dyke-escape</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/one-day-in-tortola-from-cruise-ship.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/tortola-catamaran-sail-snorkel</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-beach-excursions.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tortolashoreexcursions.com/tortola-catamaran-snorkeling-tours.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tortolashoreexcursions.com/private-tortola-tours.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tortolashoreexcursions.com/the-baths-discovery-tortola.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/best-beaches-in-tortola-for-cruise-passengers</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/jost-van-dyke-escape.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/private-cane-garden-bay-tour-tortola</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/private-tortola-half-day-tour</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/private-tortola-jeep-tour</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-cruise-excursions-for-families</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-kayak-hike-snorkel-tour</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-kayak-snorkel-adventure</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-resort-beach-day</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-shopping-sightseeing-beach-tour</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-shore-excursions-faq</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/tortola-tour-pages</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/about</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/contact</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/privacy</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/terms</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/methodology</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/06/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-catamaran-sail-snorkel.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/07/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/best-beaches-in-tortola-for-cruise-passengers.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/08/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/private-cane-garden-bay-tour-tortola.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/09/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/private-tortola-half-day-tour.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/10/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/private-tortola-jeep-tour.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/11/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-cruise-excursions-for-families.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/12/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-kayak-hike-snorkel-tour.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2026/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-kayak-snorkel-adventure.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/01/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-resort-beach-day.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/02/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-shopping-sightseeing-beach-tour.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/03/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-shore-excursions-faq.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/04/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tortolashoreexcursions.com/tortola-tour-pages.html</loc>
-    <lastmod>2026-05-23</lastmod>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/05/</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/06/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/07/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/08/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/09/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/10/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/11/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/12/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/2027/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tortolashoreexcursions.com/ship-schedule/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

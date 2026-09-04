@@ -1,0 +1,23 @@
+{
+  "portSlug": "tortola",
+  "destinationName": "Tortola",
+  "domain": "https://tortolashoreexcursions.com",
+  "siteName": "Tortola Shore Excursions",
+  "localOutput": "data/generated/tortola-schedules.json",
+  "portGuidePath": "tortola-cruise-port-guide",
+  "bestExcursionsPath": "best-tortola-shore-excursions",
+  "oneDayPath": "one-day-in-tortola-from-cruise-ship",
+  "fontsCss": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap",
+  "expectedTotals": {
+    "total": 522,
+    "byYear": {
+      "2026": 178,
+      "2027": 344,
+      "2028": 0
+    }
+  },
+  "hubIntro": "Find your ship and date for Tortola (Road Town), then choose between The Baths, Jost Van Dyke, beaches, catamaran time or a private island day around a realistic return buffer. Confirm final timings with your cruise line.",
+  "authoritySource": "../caribbean-shore-excursions/data/imported-schedules/tortola.json",
+  "scheduleHubPath": "ship-schedule",
+  "notes": "GENERATED FROM CARIBBEAN AUTHORITY - DO NOT MANUALLY EDIT schedule output files."
+}
